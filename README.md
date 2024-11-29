@@ -21,8 +21,8 @@ Mengembalikan semua data mahasiswa dari database.
 ### 2. **POST**: Menambahkan Data Mahasiswa
 Menambahkan data mahasiswa baru ke dalam database.  
 **Screenshot**:  
-![POST Endpoint](![image](https://github.com/user-attachments/assets/6a22cd25-d262-4c28-a7d0-408ac27ec827)
-)
+![POST Endpoint](https://github.com/user-attachments/assets/6a22cd25-d262-4c28-a7d0-408ac27ec827)
+
 
 ---
 
