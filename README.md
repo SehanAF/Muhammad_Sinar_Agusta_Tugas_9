@@ -13,7 +13,7 @@ Tugas ini merupakan implementasi sederhana dari operasi **CRUD (Create, Read, Up
 ### 1. **GET**: Mendapatkan Data Mahasiswa
 Mengembalikan semua data mahasiswa dari database.  
 **Screenshot**:  
-![GET Endpoint](![image](https://github.com/user-attachments/assets/741c17a9-6129-4b2d-b437-e25fe71b5d12)
+![GET Endpoint](https://github.com/user-attachments/assets/741c17a9-6129-4b2d-b437-e25fe71b5d12
 )
 
 ---
